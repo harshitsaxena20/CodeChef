@@ -1,10 +1,14 @@
+#Pending
 def rotate(array, times):
 
-    if times > len(array):
+    if times >= len(array):
         times = times % len(array)
+    print(times)
 
-    for i in range(len(array) - 1):
-        array[i], array[i+1] = array[i+1], array[i]
+    for i in range(times):
+        for j in range(len(array) - 1):
+            array[j], array[j+1] = array[j+1], array[j]
+    
 
 
 def left_rotate(array, times):
@@ -20,8 +24,4 @@ n, d = map(int, input().split(' '))
 array = list(map(int, input().split(' ')))
 
 if len(array) == n:
-    rotate(array)
-
-
-for i in array:
-    print(i, end=' ')
+    rotate(array, d)

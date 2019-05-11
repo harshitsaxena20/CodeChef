@@ -35,4 +35,5 @@ for j in db:
 for line in result:
     for elm in line:
         print(elm, end=' ')
+         
     print()
