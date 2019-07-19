@@ -46,45 +46,48 @@
     <session id="-1065202533">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="68" />
-          <entry key="py" value="2013" />
+          <entry key="py" value="3607" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2081" />
+          <entry key="Python" value="3675" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Beginner/Ambiguous_permutations.py">
+        <entry file="file://$PROJECT_DIR$/HakerRank/Left rotation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="17" lean-forward="true" selection-end-line="28" />
+            <state relative-caret-position="207">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
-                <marker date="1557178842054" expanded="true" signature="78:378" ph="..." />
+                <marker date="1563563469165" expanded="true" signature="278:498" ph="..." />
+                <marker date="1563563469165" expanded="true" signature="528:533" ph="..." />
               </folding>
             </state>
           </provider>
@@ -116,15 +119,19 @@
         <option value="$PROJECT_DIR$/Beginner/Second_largest.py" />
         <option value="$PROJECT_DIR$/Beginner/Small_factorial.py" />
         <option value="$PROJECT_DIR$/HakerRank/2D hourglass.py" />
-        <option value="$PROJECT_DIR$/HakerRank/Left rotation.py" />
         <option value="$PROJECT_DIR$/Beginner/Sums in a Triangle.py" />
         <option value="$PROJECT_DIR$/Beginner/Servant.py" />
         <option value="$PROJECT_DIR$/Beginner/Ambiguous_permutations.py" />
+        <option value="$PROJECT_DIR$/Hacherearth/3.py" />
+        <option value="$PROJECT_DIR$/Hacherearth/6.py" />
+        <option value="$PROJECT_DIR$/Hacherearth/5.py" />
+        <option value="$PROJECT_DIR$/Hacherearth/7.py" />
+        <option value="$PROJECT_DIR$/Hacherearth/temp.py" />
+        <option value="$PROJECT_DIR$/HakerRank/Left rotation.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="19" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="878" />
@@ -159,7 +166,7 @@
             <path>
               <item name="CodeChef" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeChef" type="462c0819:PsiDirectoryNode" />
-              <item name="Beginner" type="462c0819:PsiDirectoryNode" />
+              <item name="Hacherearth" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodeChef" type="b2602c69:ProjectViewProjectNode" />
@@ -175,7 +182,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -196,8 +203,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Ambiguous_permutations">
-    <configuration name="2D hourglass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Left rotation">
+    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Code Chef" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,11 +212,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HakerRank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hacherearth" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HakerRank/2D hourglass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hacherearth/3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +225,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ambiguous_permutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Code Chef" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,11 +233,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hacherearth" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Ambiguous_permutations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hacherearth/5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code Chef" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hacherearth" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hacherearth/6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,7 +288,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Servant" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Code Chef" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -268,32 +296,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hacherearth" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Servant.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Sums in a Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Code Chef" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Sums in a Triangle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hacherearth/temp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,19 +310,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Ambiguous_permutations" />
-      <item itemvalue="Python.2D hourglass" />
+      <item itemvalue="Python.3" />
+      <item itemvalue="Python.6" />
+      <item itemvalue="Python.5" />
+      <item itemvalue="Python.temp" />
       <item itemvalue="Python.Left rotation" />
-      <item itemvalue="Python.Sums in a Triangle" />
-      <item itemvalue="Python.Servant" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ambiguous_permutations" />
-        <item itemvalue="Python.Servant" />
-        <item itemvalue="Python.Sums in a Triangle" />
         <item itemvalue="Python.Left rotation" />
-        <item itemvalue="Python.2D hourglass" />
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.5" />
+        <item itemvalue="Python.6" />
+        <item itemvalue="Python.3" />
       </list>
     </recent_temporary>
   </component>
@@ -333,16 +340,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1440" height="878" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.63493973" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994911" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.6335878" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39821884" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -371,13 +377,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="781" selection-start-line="781" selection-end-line="781" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/parse.py" />
     <entry file="file://$PROJECT_DIR$/Beginner/The_lead_game.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -451,16 +451,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HakerRank/Left rotation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <marker date="1557069643179" expanded="true" signature="209:214" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Beginner/Sums in a Triangle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -479,8 +469,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="16" column="17" lean-forward="true" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hacherearth/6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="35" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hacherearth/5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hacherearth/7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hacherearth/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hacherearth/3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HakerRank/Left rotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
-            <marker date="1557178842054" expanded="true" signature="78:378" ph="..." />
+            <marker date="1563563469165" expanded="true" signature="278:498" ph="..." />
+            <marker date="1563563469165" expanded="true" signature="528:533" ph="..." />
           </folding>
         </state>
       </provider>
