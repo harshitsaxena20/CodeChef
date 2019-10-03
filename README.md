@@ -1,4 +1,4 @@
-**codechef
+**code chef
 
 # CodeChef
 CodeChef Solution
